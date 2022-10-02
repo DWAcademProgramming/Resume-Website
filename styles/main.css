@@ -153,6 +153,10 @@ li{
     height: 1px;
 }
 
+.border-bottom{
+    border-bottom:#adb0b1 solid 1px;
+}
+
 
 @media(max-width:600px){
 
